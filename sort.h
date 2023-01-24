@@ -17,7 +17,7 @@ typedef enum bool
 {
 	false = 0,
 	true
-}
+} bool;
 
 /**
  * struct listint_s - Doubly linked list node
